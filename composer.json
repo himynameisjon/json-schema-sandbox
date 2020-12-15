@@ -1,0 +1,13 @@
+{
+    "name": "defaults/interactive",
+    "type": "project",
+    "description": "",
+    "license": "MIT",
+    "require": {
+        "ciroue/support": "dev-master",
+        "vlucas/phpdotenv": "^4.1.0",
+        "justinrainbow/json-schema": "^5.2"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
